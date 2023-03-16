@@ -2,10 +2,9 @@
 
 ## Projects
 
-- [developer experience initiative](https://labxd.com)
-- [design system](https://gustxd.com)
+- [Portfoloio](https://labxd.com)
+- [DesignOps Toolchain](https://motifxd.com)
 - [survey project](https://surveyxd.com)
-- [labXD git](https://www.github.com/labXD)
 
 ## CHAT | WATCH | LISTEN
 
