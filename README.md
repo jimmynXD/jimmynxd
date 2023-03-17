@@ -2,7 +2,7 @@
 
 ## Projects
 
-- [Portfoloio](https://labxd.com)
+- [Portfolio](https://labxd.com)
 - [DesignOps Toolchain](https://motifxd.com)
 - [survey project](https://surveyxd.com)
 
