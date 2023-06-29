@@ -2,12 +2,5 @@
 
 ## Projects
 
-- [Portfolio](https://labxd.com)
-- [DesignOps Toolchain](https://motifxd.com)
-- [survey project](https://surveyxd.com)
-
-## CHAT | WATCH | LISTEN
-
-- 📱 Discord invite link ➔ https://discord.gg/2JzNrn4P6N 
-- 🎥 YouTube ➔ https://www.youtube.com/channel/UCWvxvCuwAcVeCSt5tsLBwwA
-- 🎧 chatterXD Podcast on Spotify ➔ https://spoti.fi/3fApggJ
+- [Portfolio](https://jamesnpro.vercel.app)
+- [DesignOps Toolchain](https://labxd.com)
